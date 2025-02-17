@@ -1,7 +1,6 @@
 package com.example.to_do_compose.util
 
 enum class Action {
-
     ADD,
     UPDATE,
     DELETE,
